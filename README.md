@@ -13,6 +13,8 @@ Drawing on Critical and Cultural Theory, it explores three interconnected stream
 
 Situating these streams within Media and Communication Studies, the project responds to WASP-HS’s call for interdisciplinary exploration of AI’s societal impacts (\[wasp-hs.org]\[1]). It offers a critical-cultural intervention by interrogating not only the technologies themselves, but the mediated frameworks that legitimize them to citizens.
 
+It offers a critical-cultural intervention by interrogating not only the technologies themselves, but also the mediated frameworks that legitimize them to citizens—including how governments may strategically manipulate public opinion through AI-powered narratives and decision-making systems.
+
 ## 2. Research Questions
 
 1. **Imaginaries**
@@ -36,6 +38,8 @@ Situating these streams within Media and Communication Studies, the project resp
 * **Critical and Cultural Theory**: Following Anderson’s ‘imagined communities’, media create collective imaginaries that shape social cohesion and exclusion. This framework allows analysis of how AI as “social glue” transforms welfare legitimacy.
 * **Critical Algorithm Studies**: Drawing on James and Whelan’s work, the project pays close attention to bias, transparency, and ethical concerns in welfare algorithms (\[muse.jhu.edu]\[2], \[journals.sagepub.com]\[3]).
 * **Media Ecology and Political Communication**: Inspired by WASP-HS research on AI and political communication, I will use multimodal analysis of visual and textual framing (\[wasp-hs.org]\[1]).
+
+Finally, drawing from political communication theory, the project will interrogate how governments may *deploy AI discursively to manage, redirect, or manipulate public opinion*, particularly in moments of crisis or reform. This contributes to broader critiques of algorithmic power as an instrument of soft governance.
 
 ## 4. Methodology
 
