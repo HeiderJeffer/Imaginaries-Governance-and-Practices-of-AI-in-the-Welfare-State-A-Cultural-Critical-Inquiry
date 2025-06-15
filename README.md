@@ -72,7 +72,7 @@ Here's a Python representation of the methodology section, structured as pseudoc
 This is not production research code, but a structured illustration of the methodology. We can expand this using real tools like:
 
 * `spaCy`, `nltk` or `transformers` for NLP and frame analysis
-* `NVivo` (not Python, but you can export/import codebooks)
+* `NVivo` (not Python, but we can export/import codebooks)
 * `pandas` and `matplotlib` for data analysis and visualization
 
 
