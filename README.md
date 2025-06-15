@@ -228,6 +228,8 @@ plt.show()
 
 ```
 
+![](https://github.com/HeiderJeffer/Imaginaries-Governance-and-Practices-of-AI-in-the-Welfare-State-A-Cultural-Critical-Inquiry/blob/main/p1.png)
+
 
 ## 5. Alignment with WASP-HS and Media & Communication Studies
 
