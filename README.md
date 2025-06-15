@@ -188,7 +188,7 @@ interviews = conduct_interviews(participants)
 triangulate_results(media_frames, policy_keywords, interviews)
 ```
 
-Here is the visual representation of your research methodology workflow. Each step in the research process is shown as a node, with directional arrows indicating the flow from one phase to the next.
+Here is the visual representation of our research methodology workflow. Each step in the research process is shown as a node, with directional arrows indicating the flow from one phase to the next.
 
 ```python
 # Research Methodology Representation in Python
